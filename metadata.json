@@ -1,0 +1,7 @@
+{
+  "name": "SightSpeak AI",
+  "description": "An AI-Powered Virtual Assistant for Context-Aware On-Screen Information Processing and Natural Voice Interaction. Upload a screenshot and ask questions via voice to get context-aware answers spoken back to you.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
