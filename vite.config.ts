@@ -21,3 +21,19 @@ export default defineConfig(({ mode }) => {
       }
     };
 });
+
+
+// import { defineConfig } from 'vite'
+// import react from '@vitejs/plugin-react'
+
+// export default defineConfig({
+//   plugins: [react()],
+//   server: {
+//     hmr: {
+//       overlay: false // Disable HMR overlay
+//     }
+//   },
+//   build: {
+//     sourcemap: true // Enable sourcemaps for better debugging
+//   }
+// })
